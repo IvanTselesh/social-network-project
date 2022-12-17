@@ -1,0 +1,14 @@
+.nav {
+  grid-area: nav;
+  border-radius: 0px;
+  border-radius: 5px;
+  background: blue;
+}
+
+.navList {
+  padding: 10px;
+}
+
+.navOptions {
+
+}
