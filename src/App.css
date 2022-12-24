@@ -1,5 +1,7 @@
 .app {
   display: grid;
+  width: 1200px;
+  margin: auto;
   min-height: 100vh;
   grid-template-areas: 
   'header header'
@@ -7,4 +9,6 @@
   grid-template-columns: 2fr 10fr;
   grid-template-rows: 60px 1fr;
   grid-gap: 10px;
+  color: #241B1C;
+  font-size: 18px;
 }

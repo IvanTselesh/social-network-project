@@ -1,8 +1,8 @@
 .nav {
   grid-area: nav;
+  background: #B7582A;
   border-radius: 0px;
   border-radius: 5px;
-  background: blue;
 }
 
 .navList {

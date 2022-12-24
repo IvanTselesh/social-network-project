@@ -1,4 +1,60 @@
 .content {
   grid-area: content;
-  background: yellow;
+}
+
+.bannerWrap {
+  width: 100%;
+  height: 250px;
+}
+
+.bannerWrapImg {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.privateData {
+  display: flex;
+  margin: 10px 0;
+}
+
+.avatarWrap {
+  width: 120px;
+  height: 150px;
+  border-radius: 30px;
+}
+
+.avatarWrapImg {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.privateDataInfo {
+  margin: 0 20px;
+}
+
+.privateDataInfoName {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.privateDataInfoContent {
+
+}
+
+.myPosts {
+
+}
+
+.myPostsNew {
+
+}
+
+.myPostsList {
+  
 }
