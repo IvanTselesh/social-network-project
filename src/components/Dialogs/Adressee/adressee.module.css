@@ -1,0 +1,17 @@
+.adressee {
+  width: 250px;
+  border: 1px solid #EBD8C9;
+  border-radius: 10px;
+  background: #EBD8C9;
+  padding: 10px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 40%;
+}
